@@ -1,0 +1,13 @@
+{
+  "modelo": "Regresión logística",
+  "accuracy_cv": 0.768,
+  "f1_macro_cv": 0.746,
+  "n_documentos": 82,
+  "n_clases": 5,
+  "validacion": "validación cruzada estratificada de 5 particiones",
+  "ocr": {
+    "variante": "Redimensionada (color)",
+    "CER_mediana": 0.197,
+    "WER_mediana": 0.5
+  }
+}
