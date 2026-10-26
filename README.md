@@ -34,4 +34,6 @@ Dataset pequeño y desbalanceado (economía tiene pocas imágenes), pocas transc
 y el diseño en columnas de los periódicos puede alterar el orden de lectura del OCR.
 
 ## Integrantes
-_(completar)_
+- Blácido Hernández, Pamela
+- Condor Montes, Paola
+- Chavez Paucar, Carla
